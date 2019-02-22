@@ -21,6 +21,7 @@ can be used on its own<br/>
 <br/>
 It takes ~35 GB to store the urls of all ~600 million posts.<br/>
 <br/>
+A single file is shown in the JSON folder as an example.<br/>
 ###<br/>
 Code Written by:<br/>
 Kyle Shepherd<br/>
